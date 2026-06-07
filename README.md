@@ -148,7 +148,7 @@ Designed an interactive dashboard using:
 
 ### Main Dashboard
 
-![Dashboard Overview](Dashboard/Images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ---
 
