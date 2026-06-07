@@ -146,8 +146,7 @@ Designed an interactive dashboard using:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](Images/dashboard_overview.png)
-
+<img src="Images/dashboard_overview.png" width="900">
 ---
 
 ## 🚀 Future Improvements
