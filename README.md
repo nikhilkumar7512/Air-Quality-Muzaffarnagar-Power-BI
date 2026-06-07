@@ -1,3 +1,10 @@
+---
+
+## 🖼️ Dashboard Preview
+
+<img src="Images/dashboard_overview.png" width="900">
+---
+
 # 🌍 Air Quality Analysis Dashboard – Muzaffarnagar
 
 ## 📌 Project Overview
@@ -141,13 +148,6 @@ Designed an interactive dashboard using:
 * Certain pollutants contribute more frequently to poor air quality.
 * Seasonal changes have a noticeable impact on pollution levels.
 * Historical AQI trends help identify periods of environmental concern.
-
----
-
-## 🖼️ Dashboard Preview
-
-<img src="Images/dashboard_overview.png" width="900">
----
 
 ## 🚀 Future Improvements
 
