@@ -7,11 +7,6 @@
 
 # 🌍 Air Quality Analysis Dashboard – Muzaffarnagar
 
-## Dashboard Preview
-
-![Dashboard Overview](Images/dashboard_overview.png)
-
----
 
 ## AQI Trend Analysis
 
