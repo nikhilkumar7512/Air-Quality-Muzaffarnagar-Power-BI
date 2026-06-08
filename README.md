@@ -7,198 +7,53 @@
 
 # 🌍 Air Quality Analysis Dashboard – Muzaffarnagar
 
-## 📌 Project Overview
+## Dashboard Preview
 
-The Air Quality Analysis Dashboard is an interactive Business Intelligence solution developed in Power BI to analyze air quality trends in Muzaffarnagar, Uttar Pradesh.
-
-The dashboard transforms raw environmental data into meaningful insights by tracking Air Quality Index (AQI), identifying dominant pollutants, and monitoring air quality patterns over time.
-
-This project demonstrates data cleaning, transformation, modeling, DAX calculations, and dashboard development skills using Power BI.
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ---
 
-## 🎯 Objective
+## AQI Trend Analysis
 
-The primary objective of this project is to:
-
-* Monitor Air Quality Index (AQI) trends.
-* Identify dominant pollutants affecting air quality.
-* Analyze monthly and yearly pollution patterns.
-* Create an interactive dashboard for data-driven decision making.
-* Present environmental data in a visually appealing and understandable format.
+This chart shows the monthly variation in Air Quality Index (AQI) over the selected period. AQI levels increase significantly during certain months, indicating seasonal pollution patterns. The trend helps identify periods of poor air quality and supports environmental monitoring.
 
 ---
 
-## 📊 Dashboard Features
+## Air Quality Status Distribution
 
-### KPI Cards
-
-* Maximum AQI
-* Minimum AQI
-* Average AQI
-* Median AQI
-
-### AQI Trend Analysis
-
-* Monthly AQI trend visualization
-* Year-over-year comparison
-* Seasonal pollution analysis
-
-### Pollutant Analysis
-
-* Dominant pollutant identification
-* Pollutant distribution insights
-
-### Air Quality Status Distribution
-
-Classification based on AQI categories:
-
-* Good
-* Satisfactory
-* Moderate
-* Poor
-* Very Poor
-* Severe
-
-### Interactive Filtering
-
-* Year-wise filtering
-* Dynamic slicers
-* Interactive visual exploration
+This visualization categorizes air quality into Good, Satisfactory, Moderate, Poor, Very Poor, and Severe categories. Most observations fall within the Moderate and Poor ranges, highlighting the need for pollution control measures.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Dominant Pollutant Analysis
 
-| Technology         | Purpose                        |
-| ------------------ | ------------------------------ |
-| Power BI           | Dashboard Development          |
-| Power Query        | Data Cleaning & Transformation |
-| DAX                | Calculated Measures            |
-| Excel / CSV        | Data Source                    |
-| Data Modeling      | Relationship Management        |
-| Data Visualization | Reporting & Insights           |
+The chart identifies the pollutants that contribute most frequently to air quality degradation. Understanding dominant pollutants helps focus mitigation efforts on the most impactful environmental factors.
 
 ---
 
-## 📂 Dataset Information
+## AQI Summary KPIs
 
-The dataset contains air quality observations for Muzaffarnagar, including:
-
-* Date
-* Year
-* Month
-* AQI Value
-* Air Quality Status
-* Dominant Pollutant
+The KPI cards display Maximum AQI, Minimum AQI, Average AQI, and Median AQI. These metrics provide a quick overview of overall air quality conditions and help compare performance across different time periods.
 
 ---
 
-## 🔄 Project Workflow
+## Year-wise Comparison
 
-### 1. Data Collection
-
-Collected and imported air quality data into Power BI.
-
-### 2. Data Cleaning
-
-Performed data preprocessing using Power Query:
-
-* Removed inconsistencies
-* Corrected data types
-* Standardized columns
-* Handled missing values
-
-### 3. Data Transformation
-
-Created analytical fields such as:
-
-* Year
-* Month
-* Date hierarchy
-
-### 4. Data Modeling
-
-Developed an optimized data model for efficient reporting and analysis.
-
-### 5. DAX Calculations
-
-Created measures for:
-
-* Average AQI
-* Maximum AQI
-* Minimum AQI
-* Median AQI
-
-### 6. Dashboard Development
-
-Designed an interactive dashboard using:
-
-* KPI Cards
-* Bar Charts
-* Pie Charts
-* Line Charts
-* Slicers
+This analysis compares AQI performance across different years. It helps identify long-term trends, improvements, or deteriorations in air quality and supports data-driven decision-making.
 
 ---
 
-## 📈 Key Insights
+## Tools Used
 
-* AQI levels fluctuate significantly across different months.
-* Certain pollutants contribute more frequently to poor air quality.
-* Seasonal changes have a noticeable impact on pollution levels.
-* Historical AQI trends help identify periods of environmental concern.
-
-## 🚀 Future Improvements
-
-* Real-time AQI monitoring
-* Machine Learning based AQI forecasting
-* Comparative analysis with nearby cities
-* Mobile-optimized dashboard design
+* Power BI
+* Power Query
+* DAX
+* Excel / CSV
 
 ---
 
-## 💡 Skills Demonstrated
-
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* DAX Measures
-* Dashboard Design
-* Data Visualization
-* Business Intelligence
-* Analytical Thinking
-
----
-
-## 📁 Repository Structure
-
-Air-Quality-Muzaffarnagar-Power-BI/
-
-├── README.md
-
-├── Dashboard/
-
-│ └── Air_Quality_Dashboard.pbix
-
-├── Dataset/
-
-│ └── air_quality_data.csv
-
-├── Images/
-
-│ └── dashboard_overview.png
-
----
-
-## 👨‍💻 Author
+## Author
 
 Nikhil Kumar
-
-Aspiring Data Analyst | Power BI Developer | Data Science Enthusiast
-
-GitHub: https://github.com/nikhilkumar7512
-
----
-
-⭐ If you found this project useful, consider giving it a star.
+Aspiring Data Analyst | Power BI Developer
+his project useful, consider giving it a star.
